@@ -5,7 +5,7 @@ Scrape from google translate
 ## Installation
 
 ```bash
-$ git clone https://github.com/fazxid/google-translate-cli
+$ git clone https://github.com/fazxid/node-google-translate
 $ npm install
 ```
 
