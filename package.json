@@ -1,0 +1,19 @@
+{
+  "name": "Google Translate CLI",
+  "version": "0.1.0",
+  "description": "Scrape from google translate",
+  "homepage": "https://github.com/fazxid/google-translate-cli",
+  "author": "Fazxid",  
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "google-translate",
+    "scrape"
+  ],
+  "engines": {
+    "node": ">=10.18.1"
+  }
+}
