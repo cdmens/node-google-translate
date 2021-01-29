@@ -24,7 +24,8 @@ $ node translate en id 'Hello World'
 
 ## Language Code
 
-Look at the google translate url : ht<span>tps://<span>translate.google.com/`?sl={en}`&`tl={id}`&text=hello%20world&op=translate
+Look at the google translate url :
+ht<span>tps://<span>translate.google.com/`?sl={en}`&`tl={id}`&text=hello%20world&op=translate
 
 ## License
 
