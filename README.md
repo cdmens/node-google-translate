@@ -1,4 +1,4 @@
-# Google Translate CLI
+# Node Google Translate
 
 Scrape from google translate
 
