@@ -1,6 +1,6 @@
 # Google Translate CLI
 
-Made with Node.js
+Scrape from google translate
 
 ## Installation
 
