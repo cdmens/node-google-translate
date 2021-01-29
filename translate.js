@@ -1,5 +1,5 @@
 /*
- * Google Translate CLI
+ * Node Google Translate
  * @author Fazxid | https://github.com/fazxid/google-translate-cli
  */
 
