@@ -22,7 +22,7 @@ $ node translate en id 'Hello World'
 
 ```
 
-## Language Code
+## Language Shortcode
 
 Look at the google translate url :
 
