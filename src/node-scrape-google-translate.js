@@ -1,6 +1,6 @@
 /*
  * Scrape Google Translate
- * @author Fazxid | https://github.com/fazxid/google-translate-cli
+ * @author Fazxid | https://github.com/fazxid/node-google-translate
  */
 
 const puppeteer = require('puppeteer');
