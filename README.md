@@ -9,7 +9,7 @@ $ git clone https://github.com/fazxid/node-google-translate
 $ npm install
 ```
 
-## Command
+## Executing Shell Commands
 
 node translate {select language} {to language} {text translate}
 
