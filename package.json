@@ -1,6 +1,6 @@
 {
   "name": "Node Google Translate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scrape from google translate",
   "homepage": "https://github.com/fazxid/node-google-translate",
   "author": "Fazxid",  
