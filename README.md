@@ -30,4 +30,8 @@ ht<span>tps://<span>translate.google.com/`?sl={en}`&`tl={id}`&text=hello%20world
 
 ## License
 
-MIT
+[MIT][license-url]
+
+Copyright (c) 2020 Fazxid
+
+[license-url]: LICENSE
