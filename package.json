@@ -5,7 +5,7 @@
   "homepage": "https://github.com/cdmens/node-google-translate",
   "author": "Fazxid",  
   "dependencies": {
-    "puppeteer": "^5.5.0"
+    "puppeteer": "^18.2.0"
   },
   "keywords": [
     "cli",
